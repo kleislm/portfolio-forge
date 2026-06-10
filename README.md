@@ -9,6 +9,21 @@
 
 ---
 
+### ⏱️ Numbers in 30 seconds
+
+| | | |
+|---|---|---|
+| **14** products built, each with a case study | **6** live on their own domains | **3** companies founded and operated from zero |
+| **6** OSS modules in NoKey · **~39** automated tests | **59** specialized legal agents in Lastro | **3** languages in this portfolio (PT/EN/ES) |
+
+<sub>*All verifiable: click the demos below or audit the [NoKey repo](https://github.com/kleislm/nokey). No invented revenue numbers — honest rule.*</sub>
+
+### 🧭 Where to start (pick your track)
+
+- **Recruiter** → [Numbers above](#️-numbers-in-30-seconds) · [Evidence map](about/competencies.md) · [Bio & thesis](about/bio.md)
+- **Client / company** → [Live proof](#︎-live-proof-real--clickable) · [Innovation Playbook](innovation/playbook.md)
+- **Founder / technical peer** → [Architecture patterns](engineering/architecture-patterns.md) · [Eval methodology](engineering/eval-methodology.md) · [NoKey](https://github.com/kleislm/nokey)
+
 ### ▶︎ Live proof (real — clickable)
 
 | Product | Where | What you verify in 30s |
@@ -75,11 +90,19 @@ Detail: [`engineering/ai-stack.md`](engineering/ai-stack.md) · [`eval-methodolo
 - 🧭 [Innovation Playbook](innovation/playbook.md) — H1/H2/H3 · governance · responsible AI
 - 🧪 [Eval methodology](engineering/eval-methodology.md) — multi-AI panel · LLM-as-judge · regression
 - 🏗️ [Architecture patterns](engineering/architecture-patterns.md) — verified RAG · verifier loop · fail-closed
-- 🗺️ [Competency map](about/competencies.md) — Mehta PM (12) + AI Engineering (12)
+- 🗺️ [Evidence map](about/competencies.md) — every competency links to the product where it's proven (no self-assigned scores)
 - 👤 [Bio & thesis](about/bio.md) — 8 principles · where I want to operate
 - 🎓 [Certifications](about/certifications.md) — IBM Product + AI Product + Business Analyst trio
 
 ---
 
-**Law → growth → founder → ship AI.** Brasília, BR · ✉️ kleistfilho@gmail.com · 🐙 [github.com/kleislm](https://github.com/kleislm)
+## 💬 Let's talk?
+
+Open to conversations about **Head of Innovation & AI**, **Founding AI Engineer**, and **advisory on AI for regulated domains**.
+
+✉️ [kleistfilho@gmail.com](mailto:kleistfilho@gmail.com) · 💼 [linkedin.com/in/kleist-monteiro](https://www.linkedin.com/in/kleist-monteiro) · 🐙 [github.com/kleislm](https://github.com/kleislm)
+
+---
+
+**Law → growth → founder → ship AI.** Brasília, BR
 *MIT-spirit portfolio. Built by Kleist Monteiro.*

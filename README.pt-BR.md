@@ -9,6 +9,21 @@
 
 ---
 
+### ⏱️ Números em 30 segundos
+
+| | | |
+|---|---|---|
+| **14** produtos construídos, cada um com case study | **6** no ar com domínio próprio | **3** empresas fundadas e operadas do zero |
+| **6** módulos OSS no NoKey · **~39** testes automatizados | **59** agentes jurídicos especializados no Lastro | **3** idiomas neste portfólio (PT/EN/ES) |
+
+<sub>*Todos verificáveis: clique nas demos abaixo ou audite o [repo do NoKey](https://github.com/kleislm/nokey). Sem número de receita inventado — regra honesta.*</sub>
+
+### 🧭 Por onde começar (escolha sua trilha)
+
+- **Recrutador** → [Números acima](#️-números-em-30-segundos) · [Mapa de evidências](about/competencies.md) · [Bio & tese](about/bio.md)
+- **Cliente / empresa** → [Prova ao vivo](#︎-prova-ao-vivo-real--clicáveis) · [Playbook de Inovação](innovation/playbook.md)
+- **Founder / par técnico** → [Padrões de arquitetura](engineering/architecture-patterns.md) · [Metodologia de eval](engineering/eval-methodology.md) · [NoKey](https://github.com/kleislm/nokey)
+
 ### ▶︎ Prova ao vivo (real — clicáveis)
 
 | Produto | Onde | O que você confere em 30s |
@@ -75,11 +90,19 @@ Detalhe: [`engineering/ai-stack.md`](engineering/ai-stack.md) · [`eval-methodol
 - 🧭 [Playbook de Inovação](innovation/playbook.md) — H1/H2/H3 · governança · IA responsável
 - 🧪 [Metodologia de eval](engineering/eval-methodology.md) — painel multi-IA · LLM-as-judge · regression
 - 🏗️ [Padrões de arquitetura](engineering/architecture-patterns.md) — verified RAG · verifier loop · fail-closed
-- 🗺️ [Mapa de competências](about/competencies.md) — Mehta PM (12) + AI Engineering (12)
+- 🗺️ [Mapa de evidências](about/competencies.md) — cada competência linka pro produto onde está provada (sem nota autoatribuída)
 - 👤 [Bio & tese](about/bio.md) — 8 princípios · onde quero atuar
 - 🎓 [Certificações](about/certifications.md) — tripé IBM Product + AI Product + Business Analyst
 
 ---
 
-**Direito → growth → fundar → construir IA.** Brasília, BR · ✉️ kleistfilho@gmail.com · 🐙 [github.com/kleislm](https://github.com/kleislm)
+## 💬 Vamos conversar?
+
+Aberto a conversas sobre **Head / Gerente de Inovação & IA**, **Founding AI Engineer** e **advisory em IA para domínios regulados**.
+
+✉️ [kleistfilho@gmail.com](mailto:kleistfilho@gmail.com) · 💼 [linkedin.com/in/kleist-monteiro](https://www.linkedin.com/in/kleist-monteiro) · 🐙 [github.com/kleislm](https://github.com/kleislm)
+
+---
+
+**Direito → growth → fundar → construir IA.** Brasília, BR
 *MIT-spirit portfolio. Built by Kleist Monteiro.*
