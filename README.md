@@ -22,7 +22,7 @@
 
 - **Recruiter** → [Numbers above](#️-numbers-in-30-seconds) · [Evidence map](about/competencies.md) · [Bio & thesis](about/bio.md)
 - **Client / company** → [Live proof](#︎-live-proof-real--clickable) · [Innovation Playbook](innovation/playbook.md)
-- **Founder / technical peer** → [Architecture patterns](engineering/architecture-patterns.md) · [Eval methodology](engineering/eval-methodology.md) · [NoKey](https://github.com/kleislm/nokey)
+- **Founder / technical peer** → [How I build with coding agents](engineering/agentic-workflow.md) · [Architecture patterns](engineering/architecture-patterns.md) · [Eval methodology](engineering/eval-methodology.md) · [NoKey](https://github.com/kleislm/nokey)
 
 ### ▶︎ Live proof (real — clickable)
 
@@ -87,6 +87,7 @@ Detail: [`engineering/ai-stack.md`](engineering/ai-stack.md) · [`eval-methodolo
 
 ## How to read me
 
+- 🤖 [How I build with coding agents](engineering/agentic-workflow.md) — orchestration (execute→review) · CLAUDE.md/skills/sub-agents · token routing · TDD-with-agents · war stories
 - 🧭 [Innovation Playbook](innovation/playbook.md) — H1/H2/H3 · governance · responsible AI
 - 🧪 [Eval methodology](engineering/eval-methodology.md) — multi-AI panel · LLM-as-judge · regression
 - 🏗️ [Architecture patterns](engineering/architecture-patterns.md) — verified RAG · verifier loop · fail-closed
